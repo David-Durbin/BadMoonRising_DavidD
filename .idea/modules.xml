@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/BadMoonRising/BadMoonRising.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/BadMoonRising/BadMoonRising.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/BadMoonRising/app/app.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/BadMoonRising/app/app.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/BadMoonRising/lib/lib.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/BadMoonRising/lib/lib.iml" />
+    </modules>
+  </component>
+</project>
